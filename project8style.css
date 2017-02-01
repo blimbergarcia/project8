@@ -1,6 +1,16 @@
-h1 { text-align:center; Color:green:}
+h1 {
 
 
+color: green;
+
+
+font-weight: bold;
+
+
+text-align: center;
+
+
+}
 
 
 td, th {
@@ -55,27 +65,6 @@ th {
 
 
 }
-
-
-
-
-
-
-
-h2 {
-
-
-color: green;
-
-
-font-weight: bold;
-
-
-text-align: center;
-
-
-}
-
 
 
 
